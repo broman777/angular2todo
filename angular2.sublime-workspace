@@ -1,0 +1,480 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"track",
+				"tracker_id"
+			],
+			[
+				"status",
+				"status_updated_at"
+			],
+			[
+				"brief",
+				"brief-statistic"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"l",
+				"lookup_currency_id"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"onke",
+				"onkeyup\tAttr"
+			],
+			[
+				"loo",
+				"lookupRowId"
+			],
+			[
+				"load",
+				"loadService"
+			],
+			[
+				"transition",
+				"transition-delay"
+			],
+			[
+				"box-sizin",
+				"webkit-box-sizing"
+			],
+			[
+				"tra",
+				"transparent"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "angular2",
+			"file_size": 0,
+			"file_write_time": 131659258960000000,
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/brother/Documents/work/angular2-intro-master"
+	],
+	"file_history":
+	[
+		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/package.json",
+		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/gulpfile.babel.js",
+		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/app/styles/_headerfooter.scss",
+		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/app/styles/_andrew.scss",
+		"/Users/brother/Documents/work/lookerly/app/js/services/pagerService.js",
+		"/Users/brother/Documents/work/lookerly/app/js/directives/dash-assortment.js",
+		"/Users/brother/Documents/work/lookerly/app/js/directives/dash-orders.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/header.html",
+		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/app/js/controllers/top.js",
+		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/app/js/controllers/long.js",
+		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/app/views/home.html",
+		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/app/styles/_ruslan.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/_vars.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/_typography.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/pages/_cabinet.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/conditions.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/services/authService.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-conditions.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/controllers/main.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/finances.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/on_run.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/suspend.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/sidebar.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/import.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/components/_search.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/assortment.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/static.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/pages/_text.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/main-header.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/footer.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/constants.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/catalog.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/msg.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/components/_mobile.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/controllers/pages/catalog.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/revs.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/components/_product-list.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-import.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/pwd.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/controllers/pages/one-product.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/controllers/pages/static.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/brands-catalog.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/main.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/purchase-history.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/docs.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/storedesc.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/text.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/one-product.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/services/catalogService.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/pages/_brands-catalog.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/payments-click.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/payments-click-refill.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/orders.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/components/_header.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/components/_breadcrumbs.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/components/_sidebar.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-delivery.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-payments-click-refill.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/controllers/pages/brands-catalog.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-payments-click.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-suspend.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/controllers/pages/dashboard.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-finances.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-docs.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/payments-trans.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/components/_pagination.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/click-status.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-click-status.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/custom-input.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/services/importService.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/dashboard.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/services/clickService.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/logreg.js",
+		"/Users/brother/Documents/work/work/fresh-3-0/source/frontend/src/js/main.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/services/cartService.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-assortment.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/factories/facebook.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-sidebar.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/pages/_order.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/one-order.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/controllers/pages/order.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/services/anchorSmoothScroll.js",
+		"/Users/brother/.ssh/id_rsa.pub",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/pages/_seller-public-page.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/pages/_one-product.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-orders.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/order.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/main.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/404.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/components/_static-info-tabs.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/services/orderService.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/components/_popups.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/on_config.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-one-order.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/delivery.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/services/wishlistService.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/controllers/pages/home.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/services/globalService.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/controllers/pages/seller-public-page.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-purchase-history.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-ntf.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/ntf.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/ntf-settings.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-msg.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-payments-trans.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/pages/_seller-profile.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-delivery-settings.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/filters/dateFromNow.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/gift-popup.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/components/_number-spinner.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/login.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-revs.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/index.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-my-wishlist.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/seller-public-page.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/controllers/pages/login.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/filters/humanDate.js",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/logreg-popup.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/directives/dash/payments.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/registration.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/styles/pages/_login.scss",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/views/home.html",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/filters/index.js",
+		"/Volumes/CRUZE 4GB/gamepad/Vendor_ВЕНДОР_Product_ПРОДУКТ.kl",
+		"/Volumes/CRUZE 4GB/gamepad/info.txt",
+		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-ntf-settings.js",
+		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/app/views/long.html",
+		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/app/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "angular2",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 238.0
+	},
+	"pinned_build_system": "",
+	"project": "angular2.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
