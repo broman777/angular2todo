@@ -1,8 +1,7 @@
 {
-	"folders":
-	[
-		{
-			"path": "."
-		}
-	]
+	"folders":[{
+        "path": ".",
+        "folder_exclude_patterns": [".svn", "._d", ".metadata", ".settings"],
+        "file_exclude_patterns": ["shared/*.js","*.component.js", "*.map", "*.pyc", "*.pyo", ".project"]
+    }]
 }

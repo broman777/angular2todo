@@ -60,15 +60,11 @@
 	"buffers":
 	[
 		{
-			"contents": "",
-			"file": "angular2",
-			"file_size": 0,
-			"file_write_time": 131659258960000000,
+			"file": "app/main.js",
 			"settings":
 			{
-				"buffer_size": 0,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"buffer_size": 287,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -112,10 +108,14 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/brother/Documents/work/angular2-intro-master"
+		"/E/Work/a2",
+		"/E/Work/a2/app",
+		"/E/Work/a2/app/todo-list",
+		"/E/Work/a2/img"
 	],
 	"file_history":
 	[
+		"/E/Work/a2/angular2",
 		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/package.json",
 		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/gulpfile.babel.js",
 		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/app/styles/_headerfooter.scss",
@@ -242,8 +242,7 @@
 		"/Volumes/CRUZE 4GB/gamepad/Vendor_ВЕНДОР_Product_ПРОДУКТ.kl",
 		"/Volumes/CRUZE 4GB/gamepad/info.txt",
 		"/Users/brother/Documents/work/work/lookerly/source/frontend/app/js/directives/dash-ntf-settings.js",
-		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/app/views/long.html",
-		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/app/index.html"
+		"/Users/brother/Documents/work/work/test.finme.com.ua/source/frontend/app/views/long.html"
 	],
 	"find":
 	{
@@ -283,11 +282,11 @@
 			[
 				{
 					"buffer": 0,
-					"file": "angular2",
-					"semi_transient": false,
+					"file": "app/main.js",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 287,
 						"regions":
 						{
 						},
@@ -300,82 +299,7 @@
 						],
 						"settings":
 						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
