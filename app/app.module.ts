@@ -5,6 +5,7 @@ import { FormsModule } from '@angular/forms';
 import { AppComponent } from './app.component'; 
 import { TodoFormComponent } from './todo-form/todo-form.component';
 import { TodoListComponent } from './todo-list/todo-list.component';
+import { TodoItemComponent } from './todo-item/todo-item.component';
 
 @NgModule({
 	imports: [
@@ -15,6 +16,7 @@ import { TodoListComponent } from './todo-list/todo-list.component';
 		AppComponent, 
 		TodoListComponent,
 		TodoFormComponent, 
+		TodoItemComponent
 	],
 	bootstrap: [AppComponent]
 })
